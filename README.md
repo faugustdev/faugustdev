@@ -13,7 +13,7 @@
 
 - Frontend: ReactJS, Angular, CSS, HTML, JavaScript.
 - Backend: Express, NodeJS, NextJS, Electron.
-- - Mobile: Cordova, ReactNative.
+- Mobile: Cordova, ReactNative.
 - Databases:
   - SQL: PostgreSQL, MySQL.
   - NoSQL: MongoDB. 
