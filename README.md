@@ -3,22 +3,27 @@
 <div align="center">
 <h1 align="center">Hello, I'm Francisco August 👋 </🚦🗺🎸> </h1>
 </div>
-<img src="https://github.com/augustbassfa/imageForGithub/blob/main/@AugustDevs.png?raw=true">
+<img src="https://github.com/augustbassfa/imageForGithub/blob/main/@AugustDevs(1).png?raw=true">
 
-- 📱 Mobile developer
+
 - 🔧 Web developer
+- 📱 Mobile developer
 
 ### 🛠️ Skilled in:
 
-- Frontend: ReactJS, ReactNative, Angular, CSS, HTML, JavaScript
-- Backend: Express, NodeJS, NextJS, Cordova, Electron
-- Databases: SQL, NoSQL
+- Frontend: ReactJS, Angular, CSS, HTML, JavaScript.
+- Backend: Express, NodeJS, NextJS, Electron.
+- - Mobile: Cordova, ReactNative.
+- Databases:
+  - SQL: PostgreSQL, MySQL.
+  - NoSQL: MongoDB. 
+
 
 ### 📈 Experienced in:
 
-- Agile development methodologies
-- Continuous integration and delivery (CI/CD)
-- Version control with Git
+- Agile development methodologies (SCRUM, XP).
+- Continuous integration and delivery (CI/CD, Jenkins).
+- Version control with Git.
 
 👓 Always looking for new challenges and opportunities to learn and grow.
 
