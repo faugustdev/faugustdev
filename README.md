@@ -36,14 +36,14 @@
 
 <p align="center">
 <a href="https://github.com/augustbassfa">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=augustbassfa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=augustbassfa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faugustdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faugustdev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
 <!--
-**augustbassfa/augustbassfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**faugustdev/faugustdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
