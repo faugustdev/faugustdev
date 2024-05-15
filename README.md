@@ -37,7 +37,7 @@
 <p align="center">
 <a href="https://github.com/faugustdev">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faugustdev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faugustdev&langs_count=10&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faugustdev&langs_count=10&theme=onedark&card_width=350"/>
 </a>
 </p>
 
