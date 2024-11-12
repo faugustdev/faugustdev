@@ -5,30 +5,47 @@
 </div>
 <img src="https://github.com/augustbassfa/imageForGithub/blob/main/@AugustDevs(1).png?raw=true">
 
-
+- 👨‍💻 System Administrator
+- 🛠️ DevOps Engineer
 - 🔧 Web developer
 - 📱 Mobile developer
 
 ### 🛠️ Skilled in:
 
-- Frontend: ReactJS, Angular, CSS, HTML, JavaScript.
-- Backend: Express, NodeJS, NextJS, Electron.
-- Mobile: Cordova, ReactNative.
+- System Administrator:
+  - Linux (Ubuntu, Arch) / Windows Server
+  - Web server administration (Apache, Nginx)
+  - Scripting (Bash, PowerShell)
+  - Virtualization (Proxmox, VMware, VirtualBox)
+  - System monitoring (Grafana, Netdata, Prometheus)
+- DevOps:
+  - CI/CD (Jenkins, Argo, GitLab CI/CD)
+  - Contenedores (Docker, Kubernetes)
+  - Infrastructure as Code (Terraform, Ansible)
+  - Cloud Computing (AWS, Fly.io, Railway)
 - Databases:
-  - SQL: PostgreSQL, MySQL.
-  - NoSQL: MongoDB. 
+  - SQL (PostgreSQL, MySQL)
+  - NoSQL (MongoDB, ScyllaDB, Cassandra, Redis)
+- Backend: (Java, Express, NodeJS, NextJS, Electron)
+- Frontend: (ReactJS, Angular, CSS, HTML, JavaScript)
+- Mobile (Cordova, ReactNative.)
+
 
 
 ### 📈 Experienced in:
 
-- Agile development methodologies (SCRUM, XP).
-- Continuous integration and delivery (CI/CD, Jenkins).
-- Version control with Git.
+- Agile development methodologies (SCRUM, Lean Six Sigma)
+- Performance analysis
+- Vulnerability scanning
+- Intrusion prevention system (IPS)
+- Application deployment
+- Application containerization
+- Version control with Git
 
-👓 Always looking for new challenges and opportunities to learn and grow.
+##I keep calm in the midst of the technological storm. 🧘‍♂️🌪️
 
 ☕️ I love coffee, so feel free to reach out if you want to chat about code or anything else.
-@augustbassfa
+@faugustdev
 
 <br>
 
