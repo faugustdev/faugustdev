@@ -5,6 +5,15 @@
 </div>
 <img src="https://github.com/augustbassfa/imageForGithub/blob/main/@AugustDevs(1).png?raw=true">
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" alt="Proxmox Badge"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare Badge"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean Badge"/>
+</div>
+
+
+
 - 👨‍💻 System Administrator
 - 🛠️ DevOps Engineer
 - 🔧 Web developer
@@ -52,6 +61,9 @@
 
 ☕️ I love coffee, so feel free to reach out if you want to chat about code or anything else.
 @faugustdev
+
+
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=faugustdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
