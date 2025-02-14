@@ -10,6 +10,12 @@
 - 🔧 Web developer
 - 📱 Mobile developer
 
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gW9OvfStaO5qwBRvhV/giphy.gif" width="200"/>
+</div>
+
+
 ### 🛠️ Skilled in:
 
 - System Administrator:
@@ -47,6 +53,7 @@
 ☕️ I love coffee, so feel free to reach out if you want to chat about code or anything else.
 @faugustdev
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=faugustdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <!--
 **faugustdev/faugustdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
