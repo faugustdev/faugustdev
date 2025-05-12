@@ -3,7 +3,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm Francisco August 👋 </🚦🗺🎸> </h1>
 </div>
-<img src="https://github.com/augustbassfa/imageForGithub/blob/main/@AugustDevs(1).png?raw=true">
+<img src="https://raw.githubusercontent.com/faugustdev/imageForGithub/refs/heads/main/%40AugustDevs_v4.png">
 
 <div id="badges">
   <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" alt="Proxmox Badge"/>
